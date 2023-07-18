@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    }
+    button{
+        position: absolute;
+        left: 37%;
+        background-color: aliceblue;
+        height: 50px;
+        width: 200px;
+        box-shadow: 4px 6px 4px rgba(0,0,0.2);
+    }
+    button{
+        position: absolute;
+        left: 37%;
+        background-color: aliceblue;
+        height: 50px;
+        width: 200px;
+        box-shadow: 4px 6px 4px rgba(0,0,0.2);
+    }
+    
