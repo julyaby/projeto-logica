@@ -1,0 +1,20 @@
+body{
+    background-image: url("Zoom Background - Planetas no Espaço.png");
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: 110%;
+    font-style: Arial;
+    }
+
+
+
+
+#resultado{
+    text-align: left; 
+    height: 50vh;
+}
+h1{
+    color: aliceblue;
+}h2{
+    color: aliceblue;
+}

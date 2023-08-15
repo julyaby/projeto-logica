@@ -1,5 +1,6 @@
 body{
     background-image: url(Zoom\ Background\ -\ Planetas\ no\ Espaço.png);
+    background-repeat: no-repeat;
     }
     button{
         position: absolute;
